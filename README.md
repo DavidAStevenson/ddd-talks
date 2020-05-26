@@ -4,6 +4,8 @@ Talks about Domain-Driven Design
 ## Eric Evans
 - [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans/) (2007)
 - [DDD: Strategic Design](https://www.infoq.com/presentations/strategic-design-evans/) (2007)
+- [Eric Evans on Domain-Driven Design](https://www.iheart.com/podcast/256-net-rocks-31158901/episode/eric-evans-on-domain-driven-design-38577478/) (2007) (podcast)
+  - including discussion of working with legacy systems via anticorruption layers
 - [What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA&t=3s) (2009)
   - including discussion of Domain Events as a new Building Block, and Big Ball of Mud within Strategic Design
 - [DDD and Microservices: At Last, Some Boundaries!](https://www.infoq.com/presentations/ddd-microservices-2016/) (2016)
