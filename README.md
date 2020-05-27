@@ -7,7 +7,7 @@ Talks about Domain-Driven Design
 - [DDD: Strategic Design](https://www.infoq.com/presentations/strategic-design-evans/) (2007)
 - [Eric Evans on Domain-Driven Design](https://www.iheart.com/podcast/256-net-rocks-31158901/episode/eric-evans-on-domain-driven-design-38577478/) (2007) (podcast)
   - including discussion of working with legacy systems via anticorruption layers
-- [What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA&t=3s) (2009)
+- [What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA&t) (2009)
   - including discussion of Domain Events as a new Building Block, and Big Ball of Mud within Strategic Design
   - [Introduction](https://www.youtube.com/watch?v=YAcu9yKf51U)
 - [SE-Radio - Episode 226: Eric Evans on Domain-Driven Design at 10 Years](https://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) (2015) (podcast) 
