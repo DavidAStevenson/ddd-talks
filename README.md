@@ -10,6 +10,8 @@ Talks about Domain-Driven Design
 - [What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA&t) (2009)
   - including discussion of Domain Events as a new Building Block, and Big Ball of Mud within Strategic Design
   - [Introduction](https://www.youtube.com/watch?v=YAcu9yKf51U)
+- [On DDD and Agile at DDD-NYC SIG](https://www.youtube.com/watch?v=f00jUC64osw) (2010)
+  - Recording of a [similar talk given at qcon 2010](https://qconlondon.com/london-2010/qconlondon.com/london-2010/presentation/Folding+Design+into+an+Agile+Process.html)
 - [SE-Radio - Episode 226: Eric Evans on Domain-Driven Design at 10 Years](https://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) (2015) (podcast) 
 - [DDD and Microservices: At Last, Some Boundaries!](https://www.infoq.com/presentations/ddd-microservices-2016/) (2016)
   - a key point is in the title; while microservices have overhead, they are a way of establishing hard boundaries between new DDD models and monolithic ones. Simple logical boundaries (e.g. within monoliths) have a track record of failing to be robust over time, leading to the Big Ball of Mud  
