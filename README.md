@@ -13,6 +13,8 @@ Talks about Domain-Driven Design
 - [On DDD and Agile at DDD-NYC SIG](https://www.youtube.com/watch?v=f00jUC64osw) (2010)
   - Recording of a [similar talk given at qcon 2010](https://qconlondon.com/london-2010/qconlondon.com/london-2010/presentation/Folding+Design+into+an+Agile+Process.html)
   - introduces the [Whirlpool process](https://domainlanguage.com/ddd/whirlpool/)
+- [Domain Driven Design Strategies for Dealing With Legacy Systems (YOW! 2011)](https://www.youtube.com/watch?v=OTF2Y6TLTG0) (2011)
+  - First half is an intro to DDD, and the second part introduces material covered in [this white paper](https://domainlanguage.com/ddd/surrounded-by-legacy-software/) 
 - [SE-Radio - Episode 226: Eric Evans on Domain-Driven Design at 10 Years](https://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) (2015) (podcast) 
 - [DDD and Microservices: At Last, Some Boundaries!](https://www.infoq.com/presentations/ddd-microservices-2016/) (2016)
   - a key point is in the title; while microservices have overhead, they are a way of establishing hard boundaries between new DDD models and monolithic ones. Simple logical boundaries (e.g. within monoliths) have a track record of failing to be robust over time, leading to the Big Ball of Mud  
