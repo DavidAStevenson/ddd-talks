@@ -16,7 +16,7 @@ Talks about Domain-Driven Design
 - [Domain Driven Design Strategies for Dealing With Legacy Systems (YOW! 2011)](https://www.youtube.com/watch?v=OTF2Y6TLTG0) (2011)
   - First half is an intro to DDD, and the second part introduces material covered in [this white paper](https://domainlanguage.com/ddd/surrounded-by-legacy-software/) 
 - [SE-Radio - Episode 226: Eric Evans on Domain-Driven Design at 10 Years](https://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) (2015) (podcast) 
-  - Interview covering the core of DDD (Bounded Contexts, Strategic Design), Bounded Contexts relationship with microservices, developments in DDD such as Domain Events, CQRS and Event Sourcing 
+  - Interview covering the core of DDD (Bounded Contexts, Strategic Design), Bounded Contexts relationship with microservices, developments in DDD such as Domain Events, CQRS and Event Sourcing, the Actor model as it relates to Aggregates, and what NoSQL means for DDD
 - [DDD and Microservices: At Last, Some Boundaries!](https://www.infoq.com/presentations/ddd-microservices-2016/) (2016)
   - a key point is in the title; while microservices have overhead, they are a way of establishing hard boundaries between new DDD models and monolithic ones. Simple logical boundaries (e.g. within monoliths) have a track record of failing to be robust over time, leading to the Big Ball of Mud  
 - [Explore DDD | Keynote: Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=kIKwPNKXaLU) (2017)  
