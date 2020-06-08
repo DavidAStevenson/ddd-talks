@@ -15,6 +15,8 @@ Talks about Domain-Driven Design
   - introduces the [Whirlpool process](https://domainlanguage.com/ddd/whirlpool/)
 - [Domain Driven Design Strategies for Dealing With Legacy Systems (YOW! 2011)](https://www.youtube.com/watch?v=OTF2Y6TLTG0) (2011)
   - First half is an intro to DDD, and the second part introduces material covered in [this white paper](https://domainlanguage.com/ddd/surrounded-by-legacy-software/) 
+- [What's the Best Way to Improve Software Architectures?](https://www.infoq.com/presentations/panel-improve-software-architecture/?itm_source=infoq&itm_campaign=user_page&itm_medium=link) (2014)  
+  - A Michael Feathers hosted panel discussion, with Eric Evans, Duncan DeVore, and Leo Gorodinski
 - [SE-Radio - Episode 226: Eric Evans on Domain-Driven Design at 10 Years](https://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) (2015) (podcast) 
   - Interview covering the core of DDD (Bounded Contexts, Strategic Design), Bounded Contexts relationship with microservices, developments in DDD such as Domain Events, CQRS and Event Sourcing, the Actor model as it relates to Aggregates, and what NoSQL means for DDD
 - [DDD and Microservices: At Last, Some Boundaries!](https://www.infoq.com/presentations/ddd-microservices-2016/) (2016)
