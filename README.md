@@ -27,3 +27,5 @@ Talks about Domain-Driven Design
 ## Greg Young
 - [CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs) (2014)
   - First 2/3rds on Event Sourcing, last 1/3rd on CQRS 
+- [A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s) (2016)
+  - Covers the Good, the Bad, and the Future; interesting points for me were his mentioning the utility of the actor model in managing processes, and in looking to the future, "N-Temporal" use cases for Event Sourcing, e.g. enabling a representation of what was known "as-of" a point in time, as well as what was known "as-at" a point in time.
