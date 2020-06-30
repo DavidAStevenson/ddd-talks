@@ -23,6 +23,8 @@ Talks about Domain-Driven Design
   - a key point is in the title; while microservices have overhead, they are a way of establishing hard boundaries between new DDD models and monolithic ones. Simple logical boundaries (e.g. within monoliths) have a track record of failing to be robust over time, leading to the Big Ball of Mud  
 - [Explore DDD | Keynote: Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=kIKwPNKXaLU) (2017)  
   - Latter part covers advances since 2003, giving an overview of where DDD was at in 2017
+- [Explore DDD | Exploring Time](https://www.youtube.com/watch?v=Zm95cYAtAa8) (2017)
+  - A talk about exploring models of the generic sub-domain of "Time"
 
 ## Greg Young
 - [CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs) (2014)
