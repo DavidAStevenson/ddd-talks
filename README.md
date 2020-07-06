@@ -25,6 +25,8 @@ Talks about Domain-Driven Design
   - Latter part covers advances since 2003, giving an overview of where DDD was at in 2017
 - [Explore DDD | Exploring Time](https://www.youtube.com/watch?v=Zm95cYAtAa8) (2017)
   - A talk about exploring models of the generic sub-domain of "Time"
+- [What is DDD?](https://www.youtube.com/watch?v=pMuiVlnGqjk&t=318s) (2019)
+  - Introductory talk, focusing on models and language. An interesting point made was that the reason Evan's focuses on language is that the actual, specific words used when talking about the domain can be valuable leads towards defining a useful model (words that can easily be overlooked due to their natural appearance during the context of the conversation). 
 
 ## Greg Young
 - [CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs) (2014)
