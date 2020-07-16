@@ -36,6 +36,11 @@ Talks about Domain-Driven Design
 - [DDD Europe | What is DDD?](https://www.youtube.com/watch?v=pMuiVlnGqjk&t=318s) (2019)
   - Introductory talk, focusing on models and language. An interesting point made was that the reason Evan's focuses on language is that the actual, specific words used when talking about the domain can be valuable leads towards defining a useful model (words that can easily be overlooked due to their natural appearance during the context of the conversation). 
 
+## Martin Kleppmann
+
+- [DDD Europe | Event Sourcing and Stream Processing at Scale](https://www.youtube.com/watch?v=avi-TZI9t2I&t) (2016)
+  - on similar techniques that emerged out of the DDD and Stream processing communities, relating to "events" and their processing, but with different drivers
+
 ## Greg Young
 - [CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs) (2014)
   - First 2/3rds on Event Sourcing, last 1/3rd on CQRS 
