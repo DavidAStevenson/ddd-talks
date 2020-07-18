@@ -35,6 +35,8 @@ Talks about Domain-Driven Design
   - A call to arms for a(nother) shake-up of DDD concepts
 - [DDD Europe | What is DDD?](https://www.youtube.com/watch?v=pMuiVlnGqjk&t=318s) (2019)
   - Introductory talk, focusing on models and language. An interesting point made was that the reason Evan's focuses on language is that the actual, specific words used when talking about the domain can be valuable leads towards defining a useful model (words that can easily be overlooked due to their natural appearance during the context of the conversation). 
+- [Explore DDD | Keynote: Language in Context: And How Do We Go Forward From Here?](https://www.youtube.com/watch?v=kjMZVYdwucs) (2019)
+  - A talk that challenges the existing descriptions of Bounded Contexts and encourages the DDD community to shake this area up
 
 ## Martin Kleppmann
 
