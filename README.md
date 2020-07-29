@@ -29,6 +29,10 @@ Talks about Domain-Driven Design
   - Introductory talk on DDD, covering topics such as "what a model is", and some advances in the landscape since 2003 when the DDD book was written 
 - [DDD and Microservices: At Last, Some Boundaries!](https://www.infoq.com/presentations/ddd-microservices-2016/) (2016)
   - a key point is in the title; while microservices have overhead, they are a way of establishing hard boundaries between new DDD models and monolithic ones. Simple logical boundaries (e.g. within monoliths) have a track record of failing to be robust over time, leading to the Big Ball of Mud  
+- [DDD Europe | Good Design is Imperfect Design](https://www.youtube.com/watch?v=lY54TmmEllY) (2017)
+  - The underlying theme of the talk is as suggested by the title
+  - A few original concepts such as "Honest Names" and "Spill Zones" are mentioned, as techniques for dealing with imperfect design - so that you can ship what you've got.
+  - A description of why the "Waterfall" metaphor is so apt, at 48 minutes in
 - [Explore DDD | Keynote: Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=kIKwPNKXaLU) (2017)  
   - Latter part covers advances since 2003, giving an overview of where DDD was at in 2017
 - [Explore DDD | Exploring Time](https://www.youtube.com/watch?v=Zm95cYAtAa8) (2017)
