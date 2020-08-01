@@ -2,6 +2,7 @@
 Talks about Domain-Driven Design
 
 ## Alberto Brandolini
+- [DDD Europe | The Precision Blade](https://www.youtube.com/watch?v=lG46Yo_9DPc) (2016)
 - [DDD Europe | Event Storming](https://www.youtube.com/watch?v=mLXQIYEwK24) (2019)
   - quickfire overview of Brandolini's Event Storming techniques, summarized in the end as "Merge the people, Split the software" (which, he notes, is the opposite of the way things have often historically been done with silos of humans and shared databases)
   - the value of Domain Events in modelling is explained 
