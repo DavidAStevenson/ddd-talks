@@ -51,7 +51,7 @@ Talks about Domain-Driven Design
 
 ## Vaughn Vernon
 
-- [The Language of Actors](https://www.youtube.com/watch?v=KtRLIzG5c54) (2017)
+- [DDD Europe | The Language of Actors](https://www.youtube.com/watch?v=KtRLIzG5c54) (2017)
   - Introductory talk to the Actor Model and its use within DDD 
 
 ## Greg Young
