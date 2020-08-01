@@ -49,6 +49,11 @@ Talks about Domain-Driven Design
 - [DDD Europe | Event Sourcing and Stream Processing at Scale](https://www.youtube.com/watch?v=avi-TZI9t2I&t) (2016)
   - on similar techniques that emerged out of the DDD and Stream processing communities, relating to "events" and their processing, but with different drivers
 
+## Vaughn Vernon
+
+- [The Language of Actors](https://www.youtube.com/watch?v=KtRLIzG5c54) (2017)
+  - Introductory talk to the Actor Model and its use within DDD 
+
 ## Greg Young
 - [CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs) (2014)
   - First 2/3rds on Event Sourcing, last 1/3rd on CQRS 
