@@ -7,6 +7,7 @@ Talks about Domain-Driven Design
   - quickfire overview of Brandolini's Event Storming techniques, summarized in the end as "Merge the people, Split the software" (which, he notes, is the opposite of the way things have often historically been done with silos of humans and shared databases)
   - the value of Domain Events in modelling is explained 
   - another amusing point is that like that true pizza, you can freely add extra "toppings" on top of the basic Event Storming recipe... with the exception of database tables and pineapple!
+- [Explore DDD | Keynote: The Gordian Knot → Hatching Software Development Ecosystems](https://www.youtube.com/watch?v=Aanys09blCw) (2019)
 
 ## Eric Evans
 - [SE-Radio - Episode 8: Interview Eric Evans](https://www.se-radio.net/2006/03/episode-8-interview-eric-evans/) (2006) (podcast)
