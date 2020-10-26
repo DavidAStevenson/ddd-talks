@@ -45,6 +45,8 @@ Talks about Domain-Driven Design
   - Introductory talk, focusing on models and language. An interesting point made was that the reason Evan's focuses on language is that the actual, specific words used when talking about the domain can be valuable leads towards defining a useful model (words that can easily be overlooked due to their natural appearance during the context of the conversation). 
 - [Explore DDD | Keynote: Language in Context: And How Do We Go Forward From Here?](https://www.youtube.com/watch?v=kjMZVYdwucs) (2019)
   - A talk that challenges the existing descriptions of Bounded Contexts and encourages the DDD community to shake this area up
+- [DDD Europe | Bounded Contexts](https://www.youtube.com/watch?v=am-HXycfalo) (2020)
+  - A short introduction to Bounded Contexts and how they can be useful in real-world work
 
 ## Martin Kleppmann
 
