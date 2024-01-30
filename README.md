@@ -47,7 +47,10 @@ Talks about Domain-Driven Design
   - A talk that challenges the existing descriptions of Bounded Contexts and encourages the DDD community to shake this area up
 - [DDD Europe | Bounded Contexts](https://www.youtube.com/watch?v=am-HXycfalo) (2020)
   - A short introduction to Bounded Contexts and how they can be useful in real-world work
+- [The Engineering Room (Dave Farley) | How AI Will Change Software Development In The Next 10 Years](https://www.youtube.com/watch?v=r_WRUFx7RLY) (2024)
+  - The first half covers some DDD topics, and the second half gets into views on what LLMs may do for us over the next decade
 
+  
 ## Martin Kleppmann
 
 - [DDD Europe | Event Sourcing and Stream Processing at Scale](https://www.youtube.com/watch?v=avi-TZI9t2I&t) (2016)
